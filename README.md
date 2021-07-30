@@ -1,6 +1,6 @@
 <h3 align="center"> Heya, Jai Gaur this side 👋</h3>
 
-## I'm a Student, Developer, and a Coder!
+<h4 align="center"> I'm a Student, Developer, and a Coder!</h4>
 
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
