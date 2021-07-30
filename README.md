@@ -31,16 +31,17 @@
 
 </details>
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
+### 📈 GitHub Stats
+<p align="center">
+<a href="https://github.com/Jai-Gaur-26">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jai-Gaur-26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Jai-Gaur-26&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 ### Connect with me:
 
-<a href="mailto:jaigaur2609@gmail.com?subject=Hey%Jai,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/JaiGaur92548345"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
