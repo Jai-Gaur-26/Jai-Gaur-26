@@ -5,14 +5,16 @@
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
 - 🥅 2021 Goals: Become a full-stack Web Developer and proficient in Data Structures & Algorithms
+- 👨‍💻 You can check-out my projects at [https://www.github.com/Jai-Gaur-26](https://www.github.com/Jai-Gaur-26)
 - ⚡ Fun fact: I love to listen to music
+- ✉️ You can reach out to me
 
 <br />
 
 ### Languages and Tools:
 
 <img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>
 <br />
 <br />
 
