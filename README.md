@@ -13,8 +13,8 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript"/>&nbsp;
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>&nbsp;
+<img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript" alt="JavaScript"/>&nbsp;
+<img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=ReactJs" alt="ReactJS"/>&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 <br />
 <br />
