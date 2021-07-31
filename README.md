@@ -1,7 +1,6 @@
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jai-Gaur-26.visitor-badge)
 <h1 align="center"> Hey there! Jai Gaur this side <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-<h3 align="center"> Developer | Coder | Student</h3>
+<h2 align="center"> Developer | Coder | Student</h2>
 
 - 🎓 I'm a 2023 passout student in Bachelor's of Technology(Information Technology)
 - 🌱 I’m currently working on my Front-end Web Development skills
@@ -51,3 +50,5 @@
 <a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" width="30px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width="30px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="30px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Jai-Gaur-26.visitor-badge)
