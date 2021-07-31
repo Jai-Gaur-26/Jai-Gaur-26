@@ -1,4 +1,4 @@
-<h2 align="center"> Hey there, Jai Gaur this side <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
+<h2 align="center"> Hey there! Jai Gaur this side <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
 <h3 align="center"> Developer | Coder | Student</h3>
 
@@ -49,8 +49,8 @@
 
 ### Connect with me on:
 
-<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" width="22px" /></a>&nbsp;&nbsp
-<a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width="22px" /></a>&nbsp;&nbsp;
-<a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="22px" /></a>&nbsp;&nbsp;
+<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" width="30px" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width="30px" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="30px" /></a>&nbsp;&nbsp;
 
 </p>
