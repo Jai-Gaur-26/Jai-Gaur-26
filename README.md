@@ -49,18 +49,7 @@
 
 ---
 
-<div class="float-container">
-
-  <div class="float-child">
-    <h3>Connect with me on:</h3>
-    <a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" width="30px" /></a>&nbsp;&nbsp;
-    <a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width="30px" /></a>&nbsp;&nbsp;
-    <a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="30px" /></a>&nbsp;&nbsp;
-  </div>
-  
-  <div class="float-child">
-    <h3>Visitor Count</h3>
-    <img src="https://profile-counter.glitch.me/Jai-Gaur-26/count.svg" />
-  </div>
-  
-</div>
+<h3>Connect with me on:</h3>
+<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" width="30px" /></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width="30px" /></a>&nbsp;&nbsp;
+<a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="30px" /></a>&nbsp;&nbsp;
