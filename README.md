@@ -39,6 +39,14 @@
 </a>
 </p>
 
+### ⚙️ GitHub Analytics
+<p align="center">
+<a href="https://github.com/hemangdtu">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hemangdtu&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hemangdtu&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 ### Connect with me:
 
 <a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
