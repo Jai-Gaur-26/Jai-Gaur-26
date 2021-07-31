@@ -1,6 +1,6 @@
-<h3 align="center"> Heya, Jai Gaur this side 👋</h3>
+<h3 align="center"> Hey there, Jai Gaur this side <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h3>
 
-<h4 align="center"> I'm a Student, Developer, and a Coder!</h4>
+<h3 align="center"> Developer | Coder | Student</h4>
 
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
@@ -13,8 +13,9 @@
 
 ### Languages and Tools:
 
-<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>
+<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript"/>&nbsp;
+<img src="https://img.shields.io/badge/-ReactJs-61DAFB?logo=react&logoColor=white" alt="ReactJS"/>&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 <br />
 <br />
 
