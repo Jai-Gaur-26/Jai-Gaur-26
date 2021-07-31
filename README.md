@@ -1,12 +1,13 @@
-<h3 align="center"> Hey there, Jai Gaur this side <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h3>
+<h2 align="center"> Hey there, Jai Gaur this side <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h2>
 
-<h3 align="center"> Developer | Coder | Student</h4>
+<h3 align="center"> Developer | Coder | Student</h3>
 
+---
+- 🎓 I'm a 2023 passout student in Bachelor's of Technology(Information Technology)
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
 - 🥅 2021 Goals: Become a full-stack Web Developer and proficient in Data Structures & Algorithms
 - 👨‍💻 You can check-out my projects at [https://www.github.com/Jai-Gaur-26](https://www.github.com/Jai-Gaur-26)
-- ⚡ Fun fact: I love to listen to music
 - ✉️ You can reach out to me via email at jaigaur2609@gmail.com
 
 <br />
@@ -47,8 +48,8 @@
 
 ### Connect with me on:
 
-<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/JaiGaur92548345"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" /></a>
+<a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
 
 </p>
