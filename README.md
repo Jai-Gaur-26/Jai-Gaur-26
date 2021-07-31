@@ -9,7 +9,6 @@
 - 👨‍💻 You can check out my projects at [https://www.github.com/Jai-Gaur-26](https://www.github.com/Jai-Gaur-26)
 - ✉️ You can reach out to me via email at jaigaur2609@gmail.com
 
-<br />
 
 ---
 
@@ -33,8 +32,6 @@
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop"/>&nbsp;
 <img src="https://img.shields.io/badge/-Adobe%20Illustrator-05122A?style=flat&logo=adobe-illustrator"/>&nbsp;
 
-<br />
-<br />
 
 ---
 
