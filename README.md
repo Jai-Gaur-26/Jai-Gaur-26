@@ -6,7 +6,7 @@
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
 - 🥅 2021 Goals: Become a full-stack Web Developer and proficient in Data Structures & Algorithms
-- 👨‍💻 You can check-out my projects at [https://www.github.com/Jai-Gaur-26](https://www.github.com/Jai-Gaur-26)
+- 👨‍💻 You can check out my projects at [https://www.github.com/Jai-Gaur-26](https://www.github.com/Jai-Gaur-26)
 - ✉️ You can reach out to me via email at jaigaur2609@gmail.com
 
 <br />
@@ -14,6 +14,7 @@
 ---
 
 ### Languages and Tools:
+
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C" alt="C"/>&nbsp;
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="JavaScript"/>&nbsp;
@@ -38,6 +39,7 @@
 ---
 
 ### ⚙️ GitHub Statistics
+
 <p align="center">
 <a href="https://github.com/Jai-Gaur-26">
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Jai-Gaur-26&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -49,8 +51,14 @@
 
 ### Connect with me on:
 
+<p>
+<p align="left">
 <a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" width="30px" /></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width="30px" /></a>&nbsp;&nbsp;
 <a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="30px" /></a>&nbsp;&nbsp;
-
+</p>
+<p align="right">
+  Visitor count:<br>
+  <img src="https://profile-counter.glitch.me/Jai-Gaur-26/count.svg" />
+</p>
 </p>
