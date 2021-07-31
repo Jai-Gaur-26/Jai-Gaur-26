@@ -1,12 +1,12 @@
 <h1 align="center"> Hey there! Jai Gaur this side <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"></h1>
 
-<h2 align="center"> Developer | Coder | Student</h2>
+<h3 align="center"> Developer | Coder | Student</h3>
 
 - 🎓 I'm a 2023 passout student in Bachelor's of Technology(Information Technology)
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
 - 🥅 2021 Goals: Become a full-stack Web Developer and proficient in Data Structures & Algorithms
-- 👨‍💻 You can check out my projects at [https://www.github.com/Jai-Gaur-26](https://www.github.com/Jai-Gaur-26)
+- 👨‍💻 You can check out my projects [https://github.com/Jai-Gaur-26?tab=repositories](here)
 - ✉️ You can reach out to me via email at jaigaur2609@gmail.com
 
 
