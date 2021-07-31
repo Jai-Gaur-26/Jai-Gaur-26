@@ -16,15 +16,15 @@
 <img src="https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/-Java-05122A?style=flat&logo=java" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/-Git-05122A?style=flat&logo=git" alt="JavaScript"/>&nbsp;
-<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>\
+<img src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github" alt="github"/>\
+<img src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5"/>&nbsp;
 <img src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3"/>&nbsp;
 <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=JavaScript" alt="JavaScript"/>&nbsp;
 <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap"/>&nbsp;
 <img src="https://img.shields.io/badge/-ReactJs-05122A?style=flat&logo=React" alt="ReactJS"/>&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
-<img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>&nbsp;
-
-<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code"/>\
+<img src="https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase"/>\
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code"/>&nbsp;
 <img src="https://img.shields.io/badge/-Sublime%20Text%203-05122A?style=flat&logo=sublime-text"/>&nbsp;
 <img src="https://img.shields.io/badge/-Atom-05122A?style=flat&logo=atom"/>&nbsp;
 <img src="https://img.shields.io/badge/-Adobe%20Photoshop-05122A?style=flat&logo=adobe-photoshop"/>&nbsp;
