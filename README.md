@@ -2,7 +2,6 @@
 
 <h3 align="center"> Developer | Coder | Student</h3>
 
----
 - 🎓 I'm a 2023 passout student in Bachelor's of Technology(Information Technology)
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
@@ -11,6 +10,7 @@
 - ✉️ You can reach out to me via email at jaigaur2609@gmail.com
 
 <br />
+---
 
 ### Languages and Tools:
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C" alt="C"/>&nbsp;
@@ -48,8 +48,8 @@
 
 ### Connect with me on:
 
-<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" /></a>
-<a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" /></a>
+<a href="mailto:jaigaur2609@gmail.com?subject=Hey Jai,%20From%20Github"><img src="https://image.flaticon.com/icons/png/512/888/888853.png" width="22px" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/jai-gaur-996646193/"><img src="https://www.flaticon.com/svg/static/icons/svg/1409/1409945.svg" width="22px" /></a>
+<a href="https://twitter.com/JaiGaur92548345"><img src="https://image.flaticon.com/icons/png/512/733/733579.png" width="22px" /></a>
 
 </p>
