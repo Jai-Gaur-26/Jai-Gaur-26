@@ -2,7 +2,7 @@
 
 <h3 align="center"> Developer | Coder | Student</h3>
 
-- 🎓 I'm a 2023 passout student in Bachelor's of Technology(Information Technology)
+- 🎓 I'm a 2023 passout student in Bachelor of Technology(Information Technology)
 - 🌱 I’m currently working on my Front-end Web Development skills
 - 🖥️ Open to work!
 - 🥅 2021 Goals: Become a full-stack Web Developer and proficient in Data Structures & Algorithms
